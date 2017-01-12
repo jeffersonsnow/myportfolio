@@ -287,13 +287,12 @@ header .header-content .header-content-inner p {
 }
 .text-primary {
   /*color: #F05F40;*/
-  /*color: #0F7397;*/
-  /*color: #DFDCE3;*/
   color: #4abdac;
 }
-/*.sr-icons{
-  font-size: 16px;
-}*/
+.phone-text{
+  color: #F05F40;
+}
+
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
