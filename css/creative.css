@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
 html,
 body {
   height: 100%;
@@ -155,15 +151,21 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  /*background-image: url('../img/dino.jpg');*/
+  /*background-image: url('../img/newcode.jpg');*/
+  background-image: url('../img/coding.jpg');
   text-align: center;
   color: white;
+
+
 }
 header .header-content {
   position: relative;
   text-align: center;
   padding: 100px 15px 100px;
   width: 100%;
+
+
 }
 header .header-content .header-content-inner h1 {
   font-weight: 700;
@@ -214,6 +216,7 @@ header .header-content .header-content-inner p {
 .service-box {
   max-width: 400px;
   margin: 50px auto 0;
+  font-size: 50px;
 }
 @media (min-width: 992px) {
   .service-box {
@@ -233,7 +236,9 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: rgba(240, 95, 64, 0.9);
+  /*background: rgba(240, 95, 64, 0.9);*/
+  /*background: #4abdac;*/
+  background: rgba(74,189,171, 0.9);
   position: absolute;
   bottom: 0;
   text-align: center;
@@ -281,8 +286,14 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #F05F40;
+  /*color: #F05F40;*/
+  /*color: #0F7397;*/
+  /*color: #DFDCE3;*/
+  color: #4abdac;
 }
+/*.sr-icons{
+  font-size: 16px;
+}*/
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
