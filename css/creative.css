@@ -151,9 +151,8 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  /*background-image: url('../img/dino.jpg');*/
-  /*background-image: url('../img/newcode.jpg');*/
-  background-image: url('../img/coding.jpg');
+  background-image: url('../img/wallofcode.jpg');
+  /*background-image: url('../img/coding.jpg');*/
   text-align: center;
   color: white;
 
